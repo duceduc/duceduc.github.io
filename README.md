@@ -1,1 +1,1 @@
-A custom list of various adblock hosts complied into one for easy management and less resource used when Pihole updates its list. Feel free to use this list located in pihole/hosts.supp.
+A custom list of various adblock hosts complied into one for easy management and less resources used when Pihole updates its list.
